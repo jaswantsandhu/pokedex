@@ -30,7 +30,7 @@ const Search = ({
         <input
           id="pokemon-search"
           type="text"
-          className="search-input pl-4 pr-4 py-2 w-full border rounded-md shadow-sm focus:ring focus:ring-opacity-50 focus:ring-blue-300 focus:border-blue-300"
+          className="search-input pl-4 pr-4 py-2 w-full border rounded-md shadow-sm focus:ring focus:ring-opacity-50 focus:ring-blue-300 focus:border-blue-300 text-black"
           aria-label="Search Pokemon"
           placeholder="Search Pokemon..."
           value={searchTerm}

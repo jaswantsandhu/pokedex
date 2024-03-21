@@ -4,7 +4,7 @@ interface CardProps {
 
 const Card = ({ children }: CardProps) => {
   return (
-    <div className="bg-slate-50 rounded-md border-slate-500 border h-96 p-4 card-hover-effect">
+    <div className="bg-slate-50 rounded-md border-slate-500 border h-96 p-4 card-hover-effect text-black">
       {children}
     </div>
   );
