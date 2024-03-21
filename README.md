@@ -28,3 +28,13 @@ This project is designed to showcase Pokemon details in a visually engaging way,
 1. Clone the repository
    ```sh
    git clone https://github.com/jaswantsandhu/pokedex.git
+
+2. Run below command to start development server
+   ```sh
+   npm run dev
+
+### Todos and Good to have
+- Implement GraphQL server to simplify API requests.
+- Search to be done complete Pokemon data instead of on page records.
+- Improved API caching. 
+- E2E test using solution like Cypress.
